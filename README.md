@@ -57,7 +57,3 @@ A classic Asteroids-style arcade game built in Unity. Pilot your spaceship, dest
 
 https://github.com/user-attachments/assets/7b6b8713-fe17-4c44-8f35-e2359c4642b3
 
-
-## 📄 License
-
-This project is for educational and personal use. Feel free to modify and improve it.
